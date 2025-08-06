@@ -10,6 +10,7 @@ A curated collection of awesome [Claude Code](https://docs.anthropic.com/en/docs
 - [Slash Commands](#slash-commands)
 - [Subagents](#subagents)
 - [Hooks](#hooks)
+- [MCP Servers](#mcp-servers)
 - [Contributing](#contributing)
 
 ## Dotfiles Design
@@ -38,6 +39,13 @@ Specialized AI agents designed to work alongside Claude Code for complex, multi-
 Automation systems and event-driven scripts that extend Claude Code's capabilities through programmable responses to development events. Hooks enable custom workflows, validation processes, and automated actions that can enforce coding standards, trigger deployments, run tests, or integrate with external systems. They're essential for teams wanting to embed Claude Code into existing CI/CD pipelines and development processes.
 
 - [Claude Code Rules2Hook](https://github.com/zxdxjtu/claudecode-rule2hook) - Tool for converting coding rules and standards into automated Claude Code hooks.
+
+## MCP Servers
+
+Model Context Protocol (MCP) servers that extend Claude Code with external capabilities, data sources, and specialized functionality. These servers enable Claude Code to integrate with external systems, access real-time information, and leverage specialized tools that enhance its problem-solving capabilities across different domains.
+
+- [Context7 MCP Server](https://github.com/upstash/context7) - Provides up-to-date, version-specific documentation and code examples for programming libraries, eliminating outdated API references and hallucinated code.
+- [Sequential Thinking MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Sophisticated problem-solving tool that breaks down complex challenges through structured, dynamic thinking processes with branching logic and hypothesis generation.
 
 ## Contributing
 
