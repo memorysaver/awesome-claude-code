@@ -37,6 +37,7 @@ Specialized AI agents designed to work alongside Claude Code for complex, multi-
 - [Contains Studio Agents](https://github.com/contains-studio/agents) - Collection of specialized AI agents for various development tasks and domain expertise.
 - [Claude Agents by Ian Nuttall](https://github.com/iannuttall/claude-agents) - Ready-to-use subagents for code refactoring, frontend design, security auditing, project planning, content writing, and coding coaching.
 - [Professional Agent Collection](https://github.com/wshobson/agents) - Comprehensive collection of 56+ specialized subagents across development, architecture, infrastructure, data science, and business domains with intelligent task delegation.
+- [VoltAgent Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Production-ready collection of 100+ specialized AI subagents across 10 categories including development, infrastructure, data science, and business operations with independent context windows and domain-specific intelligence.
 
 ## Hooks
 
