@@ -32,6 +32,8 @@ Custom command frameworks and systems that extend Claude Code's built-in slash c
 
 Specialized AI agents designed to work alongside Claude Code for complex, multi-faceted tasks. These subagents can be spawned for parallel processing, domain expertise, or handling specific aspects of larger projects, enabling more efficient and specialized problem-solving. They excel at breaking down complex operations into manageable, concurrent tasks while maintaining context and coordination with the main Claude Code instance.
 
+- [Claude Code Subagents by 0xfurai](https://github.com/0xfurai/claude-code-subagents) - Production-ready collection of 100+ specialized subagents covering programming languages, frameworks, databases, DevOps, testing, and machine learning with automatic context-based delegation.
+- [Business & Technical Agent Personas](https://github.com/NicholasSpisak/claude-code-subagents) - 76+ specialized agent personas across 13 categories including technical excellence, AI automation, finance, marketing, design, and operations for comprehensive business transformation.
 - [Contains Studio Agents](https://github.com/contains-studio/agents) - Collection of specialized AI agents for various development tasks and domain expertise.
 - [Claude Agents by Ian Nuttall](https://github.com/iannuttall/claude-agents) - Ready-to-use subagents for code refactoring, frontend design, security auditing, project planning, content writing, and coding coaching.
 - [Professional Agent Collection](https://github.com/wshobson/agents) - Comprehensive collection of 56+ specialized subagents across development, architecture, infrastructure, data science, and business domains with intelligent task delegation.
