@@ -38,6 +38,7 @@ Specialized AI agents designed to work alongside Claude Code for complex, multi-
 - [Claude Agents by Ian Nuttall](https://github.com/iannuttall/claude-agents) - Ready-to-use subagents for code refactoring, frontend design, security auditing, project planning, content writing, and coding coaching.
 - [Professional Agent Collection](https://github.com/wshobson/agents) - Comprehensive collection of 56+ specialized subagents across development, architecture, infrastructure, data science, and business domains with intelligent task delegation.
 - [VoltAgent Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Production-ready collection of 100+ specialized AI subagents across 10 categories including development, infrastructure, data science, and business operations with independent context windows and domain-specific intelligence.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for marketing teams covering [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads); connects to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Hooks
 
