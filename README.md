@@ -51,6 +51,7 @@ Model Context Protocol (MCP) servers that extend Claude Code with external capab
 
 - [Context7 MCP Server](https://github.com/upstash/context7) - Provides up-to-date, version-specific documentation and code examples for programming libraries, eliminating outdated API references and hallucinated code.
 - [Sequential Thinking MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Sophisticated problem-solving tool that breaks down complex challenges through structured, dynamic thinking processes with branching logic and hypothesis generation.
+- [Tale](https://github.com/tale-project/tale) - Built-in MCP server for retrieving organization knowledge and authoring, testing, and running automations from a self-hosted team workspace.
 
 ## Contributing
 
