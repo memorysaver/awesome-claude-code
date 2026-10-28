@@ -43,6 +43,8 @@ Specialized AI agents designed to work alongside Claude Code for complex, multi-
 
 Automation systems and event-driven scripts that extend Claude Code's capabilities through programmable responses to development events. Hooks enable custom workflows, validation processes, and automated actions that can enforce coding standards, trigger deployments, run tests, or integrate with external systems. They're essential for teams wanting to embed Claude Code into existing CI/CD pipelines and development processes.
 
+- [Agent Notifications](https://github.com/777genius/agent-notifications) - Cross-platform desktop alerts for Claude Code task completion and requests for input, with sounds, click-to-focus, and optional webhooks.
+
 - [Claude Code Rules2Hook](https://github.com/zxdxjtu/claudecode-rule2hook) - Tool for converting coding rules and standards into automated Claude Code hooks.
 
 ## MCP Servers
